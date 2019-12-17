@@ -263,7 +263,8 @@ def standardconf():
   </div>
   
   [lastupdated]
-  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><span id="busuanzi_container_site_pv">Total views: <span id="busuanzi_value_site_pv"></span></span>
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  <span id="busuanzi_container_site_pv">Total views: <span id="busuanzi_value_site_pv"></span></span>   <span id="busuanzi_container_site_uv">Unique views: <span id="busuanzi_value_site_uv"></span></span>
   <br /> Page generated |, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 
   [sourcelink]
