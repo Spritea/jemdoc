@@ -1,0 +1,91 @@
+# jemdoc: nofooter
+
+{{<div id="toptitle"><h1>}}Wensheng Cheng{{</h1><h1></h1></div>}}
+
+{{<div><img style="float:right" img src="pic/me.jpg" border="0" width="140"></div>}}
+=== Master student
+
+Signal Processing Lab
+\n Electronic Information School
+\n Wuhan University
+\n Wuhan, 430072, China
+
+Email: cwsinwhu at whu.edu.cn
+\n or Gmail: wschengwhu at gmail.com
+\n Research interests: computer vision, semantic segmentation, robotics vision
+
+== Biography
+Welcome to the academic page of Wensheng Cheng.
+My profile: resume, undergraduate transcript, master transcript.
+
+I am currently a final year (Sep 2019 - June 2020) Master of Science in Engineering student in the School of Electronic Information of Wuhan University (GPA: 4.0\/4.0), a top 10 university of China(Wiki). I am expected to graduate in June, 2020. I major in Information and Communication Engineering. I am supervised by Prof. Wen Yang. I also received the B. Eng degree from the School of Electronic Information in Wuhan University in 2017 (grades:87.89\/100, rank: 4th\/120).
+
+My research lies at image analysis, especially aerial imagery. I also have experience in robertics vision, including UAV and robocar application. Recently, I am working on semantic segmentation methods for remote sensing imagery analysis. I also have interest in sharing projects and I am one of the main contributors of open source semantic sgmentation benchmark semantic segmentation suite. This is one of the most popular semantic segmentation project on GitHub with over 1,600 stars.
+
+I plan to continue my academic career and look for a Ph.D position starting in Fall, 2020. If you are interestd, welcome to contact me. 
+== News
+- \[11/2019\] Got the China National Scholarship! Top 0.5%, Best honor for graduate students in China.
+- \[11/2019\] Got the First-class Academic Scholarship, Ranked 2\/500+.
+- \[11/2019\] Awarded the title of Outstanding Graduate.
+== Publications
+. [https://www.mdpi.com/2072-4292/11/10/1158 Context Aggregation Network for Semantic Labeling in Aerial Images]
+\n *Wensheng Cheng*, Wen Yang, Min Wang, Gang Wang, Jinyong Chen. \n Remote Sensing(IF: 4.118), 2019.
+. Mask OBB: A Semantic Attention Based Mask Oriented Bounding Box Representation for Multi-Category Object
+Detection in Aerial Images.
+\n Jinwang Wang\*, Jian Ding\*, Haowen Guo, *Wensheng Cheng*, Ting Pan, Wen Yang. \n Remote Sensing, 2019.
+. Context Aggregation Network for Semantic Labeling in Aerial Images.
+\n *Wensheng Cheng*, Wen Yang, Youqi Pan, Haowen Guo, Yu Cheng. \n ICIP, 2019.
+. DET: A High-Resolution DVS Dataset for Lane Extraction. 
+\n *Wensheng Cheng*\*, Hao Luo\*, Wen Yang, Lei Yu, Shoushun Chen,Wei Li. \n CVPR Workshop, 2019.
+. An Autonomous Concrete Bridge Inspection System Using Unmanned Aerial Vehicle.
+\n Huai Yu, Heng Zhang, *Wensheng Cheng*, Wen Yang. \n ICRA Workshop, 2017.
+. Structure- Aware Network for Lane Extraction with Dynamic Vision Sensor.
+\n *Wensheng Cheng*\*, Hao Luo\*, Wen Yang, Lei Yu, Wei Li. \n IEEE Transactions on Neural Networks and Learning Sys-
+tems(TNNLS), 2019, under review, second round.
+. D-SiamRPN: Learning Domain Aware Siamese Region Proposal Metwork for Online Visual Tracking.
+\n Xu Lei, *Wensheng Cheng*, Haowen Guo, Wen Yang. \n CVPR Main Conference, 2020, under review.
+. Information Constrained Siamese Region Network for Online Tracking.
+\n Xu Lei, *Wensheng Cheng*, Haowen Guo, Wen Yang. \n IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI),
+on preparation.
+== Experience
+- {{<div style="float:left; text-align:left">}}Signal Processing Lab of Wuhan University, Wuhan, China{{</div>}}  {{<div style="float:right; text-align:right">}}Oct 2016 - Present{{</div>}}
+\n Research Assistant \n Advisor: Prof. Wen Yang \n Topic: Semantic segmentation
+- {{<div style="float:left; text-align:left">}}Wuhan University, Wuhan, China{{</div>}}  {{<div style="float:right; text-align:right">}}June 2018{{</div>}}
+\n Teaching Assistant for class: Machine Learning and Big Data \n Advisor: Prof. Marcello Pelillo, IEEE Fellow, AE of TPAMI
+- {{<div style="float:left; text-align:left">}}DUKE KUNSHAN University, Kunshan, China{{</div>}}  {{<div style="float:right; text-align:right">}}July 2017 - Aug 2017{{</div>}}
+\n Research Assistant \n Advisor: Prof. Wen Yang \n Topic: Semantic segmentation
+- {{<div style="float:left; text-align:left">}}DJI, Shenzhen, China{{</div>}}  {{<div style="float:right; text-align:right">}}Nov 2016 - Feb 2017{{</div>}}
+\n Research Intern \n Mentor: Shuo Yang \n Topic: Vision algorithms for robocars and UAVs
+- {{<div style="float:left; text-align:left">}}Intel Embedded System Design Joint Lab, Wuhan, China{{</div>}}  {{<div style="float:right; text-align:right">}}Jan 2016 - July 2016{{</div>}}
+\n Team Leader for Embedded System Contest \n Mentor: Yinbo Xie \n Topic: Piano music score recognition algorithm and system software development
+- {{<div style="float:left; text-align:left">}}Lab Center of Wuhan University, Wuhan, China{{</div>}}  {{<div style="float:right; text-align:right">}}Mar 2015 - Aug 2015{{</div>}}
+\n Team Leader for Electronic Design Contest \n Mentor: Prof. Xiaoqiao Chen \n Topic: Speed and direction control algorithms for an unstable system
+
+== Selected Competitions
+. Ranked 4th nationally, Building Extraction Track of High-resolution Remote Sensing Image In-
+terpretation Contest, 2018
+. Ranked 6th internationally, The International Conference on Robotics and Automation (ICRA)
+RoboMaster Mobile Manipulation Challenge, 2017
+. Top 10 internationally, The International Micro Air Vehicles, Conferences and Competitions
+(IMAV) Outdoor Competition, 2017
+. National Second-class Prize, China Graduate Eletronic Design Contest, 2017
+. National Third-class Prize, Intel Cup Undergraduate Eletronic Design Contest-Embedded System
+Design Invitational Contest, 2016
+. The Third-class Prize, Huazhong Undergraduate Mathmatical Modeling Invitational Contest, 2016
+. The First-class Prize in Hubei province, National Undergraduate Eletronic Design Contest, 2015
+
+== Selected Awards
+. National Scholarship, Top 0.5%, Best award for students in China, 2019
+. First-class Academic Scholarship, Ranked 2nd/500+, 2019
+. Undergraduate Elite Student, Wuhan University, 2015 - 2017
+. National Undergraduate Innovation Program, Top 10% teams, 2015
+. Excellent Engineer Training Program, Top 36 in 300+ students, 2014
+
+== Misc
+Hobbies: Philosophy, Xiao Mi, Soccer, Badminton, Table Tennis (China National Second-class Athlete)
+
+Olympiad: First class prize in China Chemistry Olympiad, Sichuan Province
+
+Places I have been: Singapore, Toulouse-France, Frankfurt-German
+
+Last updated by Wensheng: Dec, 2019
