@@ -9,20 +9,16 @@ Signal Processing Lab
 \n Electronic Information School
 \n Wuhan University
 \n Wuhan, 430072, China
-
-Email: cwsinwhu at whu.edu.cn
+\n\n Email: cwsinwhu at whu.edu.cn
 \n or Gmail: wschengwhu at gmail.com
 \n Research interests: computer vision, semantic segmentation, robotics vision
 
 == Biography
 Welcome to the academic page of Wensheng Cheng.
 My profile: resume, undergraduate transcript, master transcript.
-
-I am currently a final year (Sep 2019 - June 2020) Master of Science in Engineering student in the School of Electronic Information of Wuhan University (GPA: 4.0\/4.0), a top 10 university of China(Wiki). I am expected to graduate in June, 2020. I major in Information and Communication Engineering. I am supervised by Prof. Wen Yang. I also received the B. Eng degree from the School of Electronic Information in Wuhan University in 2017 (grades:87.89\/100, rank: 4th\/120).
-
-My research lies at image analysis, especially aerial imagery. I also have experience in robertics vision, including UAV and robocar application. Recently, I am working on semantic segmentation methods for remote sensing imagery analysis. I also have interest in sharing projects and I am one of the main contributors of open source semantic sgmentation benchmark semantic segmentation suite. This is one of the most popular semantic segmentation project on GitHub with over 1,600 stars.
-
-I plan to continue my academic career and look for a Ph.D position starting in Fall, 2020. If you are interestd, welcome to contact me. 
+\n\n I am currently a final year (Sep 2019 - June 2020) Master of Science in Engineering student in the School of Electronic Information of Wuhan University (GPA: 4.0\/4.0), a top 10 university of China(Wiki). I am expected to graduate in June, 2020. I major in Information and Communication Engineering. I am supervised by Prof. Wen Yang. I also received the B. Eng degree from the School of Electronic Information in Wuhan University in 2017 (grades:87.89\/100, rank: 4th\/120).
+\n\n My research lies at image analysis, especially aerial imagery. I also have experience in robertics vision, including UAV and robocar application. Recently, I am working on semantic segmentation methods for remote sensing imagery analysis. I also have interest in sharing projects and I am one of the main contributors of open source semantic sgmentation benchmark semantic segmentation suite. This is one of the most popular semantic segmentation project on GitHub with over 1,600 stars.
+\n\n I plan to continue my academic career and look for a Ph.D position starting in Fall, 2020. If you are interestd, welcome to contact me. 
 == News
 - \[11/2019\] Got the China National Scholarship! Top 0.5%, Best honor for graduate students in China.
 - \[11/2019\] Got the First-class Academic Scholarship, Ranked 2\/500+.
@@ -30,14 +26,14 @@ I plan to continue my academic career and look for a Ph.D position starting in F
 == Publications
 . [https://www.mdpi.com/2072-4292/11/10/1158 Context Aggregation Network for Semantic Labeling in Aerial Images]
 \n *Wensheng Cheng*, Wen Yang, Min Wang, Gang Wang, Jinyong Chen. \n Remote Sensing(IF: 4.118), 2019.
-. Mask OBB: A Semantic Attention Based Mask Oriented Bounding Box Representation for Multi-Category Object
-Detection in Aerial Images.
+. [https://www.mdpi.com/2072-4292/11/24/2930 Mask OBB: A Semantic Attention Based Mask Oriented Bounding Box Representation for Multi-Category Object
+Detection in Aerial Images]
 \n Jinwang Wang\*, Jian Ding\*, Haowen Guo, *Wensheng Cheng*, Ting Pan, Wen Yang. \n Remote Sensing, 2019.
-. Context Aggregation Network for Semantic Labeling in Aerial Images.
+. [https://ieeexplore.ieee.org/document/8803583 Context Aggregation Network for Semantic Labeling in Aerial Images]
 \n *Wensheng Cheng*, Wen Yang, Youqi Pan, Haowen Guo, Yu Cheng. \n ICIP, 2019.
-. DET: A High-Resolution DVS Dataset for Lane Extraction. 
+. [http://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Cheng_DET_A_High-Resolution_DVS_Dataset_for_Lane_Extraction_CVPRW_2019_paper.pdf DET: A High-Resolution DVS Dataset for Lane Extraction]
 \n *Wensheng Cheng*\*, Hao Luo\*, Wen Yang, Lei Yu, Shoushun Chen,Wei Li. \n CVPR Workshop, 2019.
-. An Autonomous Concrete Bridge Inspection System Using Unmanned Aerial Vehicle.
+. [https://spritea.github.io/jemdoc/files/ICRA_workshop.pdf An Autonomous Concrete Bridge Inspection System Using Unmanned Aerial Vehicle]
 \n Huai Yu, Heng Zhang, *Wensheng Cheng*, Wen Yang. \n ICRA Workshop, 2017.
 . Structure- Aware Network for Lane Extraction with Dynamic Vision Sensor.
 \n *Wensheng Cheng*\*, Hao Luo\*, Wen Yang, Lei Yu, Wei Li. \n IEEE Transactions on Neural Networks and Learning Sys-
@@ -83,9 +79,6 @@ Design Invitational Contest, 2016
 
 == Misc
 Hobbies: Philosophy, Xiao Mi, Soccer, Badminton, Table Tennis (China National Second-class Athlete)
-
-Olympiad: First class prize in China Chemistry Olympiad, Sichuan Province
-
-Places I have been: Singapore, Toulouse-France, Frankfurt-German
-
-Last updated by Wensheng: Dec, 2019
+\n Olympiad: First class prize in China Chemistry Olympiad, Sichuan Province
+\n Places I have been: Singapore, Toulouse-France, Frankfurt-German
+\n Last updated by Wensheng: Dec, 2019
